@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="btn_cancel_color">#999999</color>
+    <color name="btn_confirm_color">#303F9F</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="background_like_blace">#212229</color>
+    <color name="background_color_all">#eef0f1</color>
+
+    <color name="active_tab_text_color">#000000</color>
+    <color name="inactive_tab_text_color">#AAAAAA</color>
+
+    <color name="active_tab_color">#008CBF</color>
+    <color name="inactive_tab_color">#00B4F0</color>
+    <color name="blue">#0000ff</color>
+    <color name="btn_color">#009CD9</color>
+
+
+</resources>
